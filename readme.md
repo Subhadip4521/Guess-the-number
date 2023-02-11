@@ -1,3 +1,3 @@
-# CASINO
+# Guess The Number
 #### Language
 > C
